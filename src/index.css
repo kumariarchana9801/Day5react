@@ -1,0 +1,54 @@
+body{
+	background-color: rgb(128, 248, 174) !important
+  }
+  
+  
+  .HeaderColor{
+	
+	color:rgb(11, 146, 47);
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-weight: bolder;
+	text-align: center;
+	
+	
+  }
+  
+  input{
+	border:2px solid rgb(231, 24, 89);
+	border-radius: 10px;
+	height:40px;
+	margin-bottom: 5px;
+	width: 260px;
+	
+	
+	
+	
+  }
+  button{
+	background-color:rgb(62, 10, 125);
+	color:rgb(242, 240, 244);
+	padding: 9px;
+	width: 15vh;
+	border-radius: 9px;
+	font-weight: bolder;
+  }
+  .card{
+	background-color:rgb(130, 219, 144);
+	padding: 10px;
+	border: 2px solid black;
+	 border-radius: 9px; 
+	gap: 5px;
+	display: flex;
+	row-gap: 5px;
+  }
+  .content{
+	font-size: 18px;
+	text-decoration: underline;
+  }
+  .col{
+	text-align: center;
+	
+  }
+  .btn-group{
+	text-align: left;
+  }
